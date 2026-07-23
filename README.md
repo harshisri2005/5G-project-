@@ -43,4 +43,26 @@ Inference:
 
 The Variable Load Ramp Implementation and Rate Analysis project demonstrates the ability to control and monitor load variations in a systematic manner. The results show that the load follows the defined ramp profile accurately, enabling smooth transitions, stable system operation, and effective performance analysis through graphical visualization of load and rate characteristics.
 
+ASSIGNMENT 2 :
+
+To deploy the Open5GS User Plane Function (UPF) or the complete Open5GS Core Network using Docker containers on Ubuntu Linux and verify that all Network Functions (NFs) successfully register with the Network Repository Function (NRF). The objective is to understand containerized deployment of the 5G Core, monitor NF  registration, and ensure successful communication between the deployed network functions
+
+Features:
+
+*Containerized 5G Core Deployment
+*User Plane Function (UPF) Virtualization
+*Complete Open5GS Core Support
+*Service-Based Architecture (SBA)
+*Automatic NRF Registration
+*Network Function Discovery
+*Docker Compose Deployment
+*Scalable Architecture
+*Network Isolation
+*Verify successful NF registration
+*Easy Maintenance and Updates
+
+Inference:
+
+The deployment of the Open5GS 5G Core as Docker containers successfully demonstrates a cloud-native approach to implementing 5G network functions. By containerizing components such as NRF, AMF, SMF, and UPF, the core network becomes more portable, scalable, and easier to manage compared to traditional deployments. Successful registration of network functions with the NRF confirms proper Service-Based Architecture (SBA) operation and enables dynamic service discovery among network functions. The project shows that containerization reduces deployment complexity, improves resource utilization, and supports flexible scaling, making it suitable for modern 5G and edge-cloud environments. Overall, the implementation validates the feasibility and effectiveness of running a complete 5G Core Network using Docker-based virtualization
+
 
