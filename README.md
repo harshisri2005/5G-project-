@@ -27,16 +27,27 @@ This project implements a variable load ramp mechanism to gradually increase or 
 Features:
 
 * 5G Core Network (5GC) Architecture Analysis
+  
 * Service-Based Architecture (SBA) Implementation Study
+ 
 * Control and User Plane Separation (CUPS)
+
 * Network Function Analysis (AMF, SMF, UPF, PCF, NRF)
+
 * Network Slicing Concepts and Applications
+
 * High-Speed Data Communication Support
+
 * Low-Latency Communication Framework
+
 * Enhanced Mobile Broadband (eMBB) Analysis
+
 * Massive Machine-Type Communication (mMTC) Support
+
 * Ultra-Reliable Low-Latency Communication (URLLC) Study
+
 * Comparison between 4G EPC and 5G Core Network
+
 * Performance and Scalability Evaluation
 
 Inference:
