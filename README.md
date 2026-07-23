@@ -1,4 +1,5 @@
 5G - project
+
 This project explores 5G network architecture, including the 5G Core (5GC), Service-Based Architecture (SBA), and key network functions. It provides an analysis of advanced 5G technologies such as Network Slicing, CUPS, and high-speed low-latency communication services.
 
  **Ubuntu 22.04 LTS** – Operating system used for development and execution.
@@ -12,9 +13,11 @@ This project explores 5G network architecture, including the 5G Core (5GC), Serv
  **Terminal (Bash)** – Used for executing scripts and managing the development environment.
 
 ASSIGNMENT 1 :
+
 This project implements a variable load ramp mechanism to gradually increase or decrease system load and monitor its behavior over time. It analyzes and visualizes the load rate using graphical plots, helping evaluate system performance under dynamic load conditions.
 
 Features:
+
 * 5G Core Network (5GC) Architecture Analysis
 * Service-Based Architecture (SBA) Implementation Study
 * Control and User Plane Separation (CUPS)
@@ -29,6 +32,7 @@ Features:
 * Performance and Scalability Evaluation
 
 Inference:
+
 The Variable Load Ramp Implementation and Rate Analysis project demonstrates the ability to control and monitor load variations in a systematic manner. The results show that the load follows the defined ramp profile accurately, enabling smooth transitions, stable system operation, and effective performance analysis through graphical visualization of load and rate characteristics.
 
 
