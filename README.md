@@ -2,15 +2,23 @@
 
 This project explores 5G network architecture, including the 5G Core (5GC), Service-Based Architecture (SBA), and key network functions. It provides an analysis of advanced 5G technologies such as Network Slicing, CUPS, and high-speed low-latency communication services.
 
- **Ubuntu 22.04 LTS** – Operating system used for development and execution.
- **Python 3.x** – Programming language used to implement the variable load ramp algorithm.
- **NumPy** – Numerical computing library for load calculations.
- **Matplotlib** – Plotting library used for visualizing load and rate graphs.
- **Pandas** – Data analysis and manipulation library.
- **Visual Studio Code (VS Code)** – Source code editor used for development.
- **Git** – Version control system for tracking project changes.
- **GitHub** – Platform used for source code management and project hosting.
- **Terminal (Bash)** – Used for executing scripts and managing the development environment.
+ > Ubuntu 22.04 LTS :  Operating system used for development and execution.
+
+ > Python 3.x :   Programming language used to implement the variable load ramp algorithm.
+
+ > NumPy :   Numerical computing library for load calculations.
+
+ > Matplotlib :  Plotting library used for visualizing load and rate graphs.
+
+ > Pandas :  Data analysis and manipulation library.
+
+ > Visual Studio Code (VS Code) :   Source code editor used for development.
+
+ > Git :  Version control system for tracking project changes.
+
+ > GitHub :   Platform used for source code management and project hosting.
+
+ > Terminal (Bash) :   Used for executing scripts and managing the development environment.
 
 ASSIGNMENT 1 :
 
