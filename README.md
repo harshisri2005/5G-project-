@@ -60,17 +60,28 @@ To deploy the Open5GS User Plane Function (UPF) or the complete Open5GS Core Net
 
 Features:
 
-*Containerized deployment of Open5GS 5G Core Network Functions using Docker.
+*Containerized deployment of Open5GS 5G Core Network Functions using Docker
+
 *Independent UPF virtualization for flexible user-plane scaling.
+
 *Support for complete 5G Core functions including NRF, AMF, SMF, UPF, UDM, and AUSF.
+
 *Implementation of 3GPP Service-Based Architecture (SBA).
+
 *Automatic Network Function registration with the NRF.
+
 *Dynamic service discovery among Network Functions.
+
 *One-command deployment using Docker Compose.
+
 *Scalable and modular cloud-native architecture.
+
 *Secure communication through Docker network isolation.
+
 *Verification of NF registration using logs and API responses.
+
 *Support for cloud and edge computing environments.
+
 *Simplified maintenance, upgrades, and container management.
 
 Inference:
